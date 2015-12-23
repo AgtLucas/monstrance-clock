@@ -1,0 +1,3 @@
+rootProject.name = 'MonstranceClock'
+
+include ':app'
