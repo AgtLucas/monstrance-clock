@@ -6,9 +6,13 @@
 
 var React = require('react-native');
 var {
+  Image,
+  MapView,
   AppRegistry,
   StyleSheet,
   Text,
+  TextInput,
+  TouchableOpacity,
   View,
 } = React;
 
